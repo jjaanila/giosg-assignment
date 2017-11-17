@@ -17,3 +17,8 @@ pip install -r requirements.txt
 ```sh
 python3 ./busy_hours.py --start-date <start_date> --end-date <end_date> --token <giosg_api_access-token>
 ```
+
+Top get more information about arguments, run:
+```sh
+python3 ./busy_hours.py -h
+```
